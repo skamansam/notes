@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "97eae4c48a4eafcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb13bc15fd6e544",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b2eda00e0b0891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Django/Create a non-model field for flags or operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31ebfc1aea9a46f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "daefddfd106ac538",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d07245fa2030aa95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00fcc8444720a4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e04db1065da10f32",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b39547f1977054f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3907d8d68b2cdd06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6720d45e52b1b14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Django/Create a non-model field for flags or operations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26b82d3a7b7d49e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/Django/Create a non-model field for flags or operations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "334f2939259daf73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6728674ac995d38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/Django/Create a non-model field for flags or operations.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "34b2eda00e0b0891",
+  "lastOpenFiles": [
+    "LICENSE",
+    "notes/LICENSE",
+    "notes",
+    "Programming",
+    "Programming/Django",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-03-01.md",
+    "Programming/Django/Create a non-model field for flags or operations.md",
+    "Untitled 1.md"
+  ]
+}

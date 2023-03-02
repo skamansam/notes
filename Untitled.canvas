@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Untitled 1.md","id":"31fd7148499a4e74","x":-20,"y":-340,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Untitled 1.md","id":"89712845ab16ead0","x":-580,"y":-340,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"3185371fdb291bf7","fromNode":"89712845ab16ead0","fromSide":"right","toNode":"31fd7148499a4e74","toSide":"left"}
+	]
+}
